@@ -1,103 +1,44 @@
-```markdown
 # Harshith Dondapati
 
-**Software Engineering | Backend Development | Applied AI**
+**Software Engineering · Backend Systems · Applied Machine Learning**
 
-B.Tech in Artificial Intelligence and Data Science  
-Koneru Lakshmaiah Education Foundation | Class of 2028  
-Hyderabad, India
+I build software applications and machine learning systems, with an emphasis on backend development, computer vision, and reliable engineering workflows.
 
-[LinkedIn](https://www.linkedin.com/in/d-harshith-6b92b8328/) | [GitHub](https://github.com/HarshithDevX)
+Currently pursuing a B.Tech in Artificial Intelligence and Data Science at KLH University, Hyderabad.
 
----
+### Selected Work
 
-## About
+**KLHAttend — Intelligent Attendance Management System**  
+Full-stack attendance platform integrating face recognition, biometric enrollment, authentication, and session-based attendance tracking.
 
-I am a software engineering undergraduate focused on designing and developing reliable applications, backend systems, and intelligent software solutions.
+`Python` `FastAPI` `React` `OpenCV` `SQL`
 
-My technical experience spans Python development, full-stack applications, machine learning, and computer vision. I am particularly interested in software architecture, backend engineering, system reliability, and the integration of machine learning into practical applications.
+**SYNAPTIX — Representation Drift Monitoring**  
+Statistical monitoring of learned model representations using Maximum Mean Discrepancy and multi-scale RBF kernels.
 
-I approach development with an emphasis on maintainable code, structured problem-solving, testing, and measurable performance.
+`Python` `PyTorch` `pytest`
 
-## Technical Expertise
+**EEG Cognitive State Recognition**  
+Deep learning pipeline for EEG signal classification using FFT-based preprocessing and bidirectional LSTM networks. Evaluated on 1,280 DEAP dataset trials.
 
-| Area | Technologies |
-|------|-------------|
-| Programming | Python, Java, JavaScript, SQL |
-| Backend Development | FastAPI, REST APIs |
-| Frontend Development | React, HTML, CSS |
-| Databases | PostgreSQL, MySQL, SQLite |
-| Machine Learning | PyTorch, TensorFlow, Keras, Scikit-learn |
-| Computer Vision | OpenCV, Image Processing |
-| Data Engineering & Analysis | Pandas, NumPy, Matplotlib |
-| Development Tools | Git, GitHub, pytest, VS Code |
-| Fundamentals | Data Structures, Algorithms, OOP, Database Systems |
+`Python` `TensorFlow` `Bi-LSTM`
 
-## Selected Engineering Projects
+### Technologies
 
-### KLHAttend — Intelligent Attendance Management System
+**Languages:** Python, Java, JavaScript, SQL  
+**Backend:** FastAPI, REST APIs  
+**Frontend:** React  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV  
+**Tools:** Git, GitHub, pytest
 
-A full-stack attendance management platform integrating computer vision, biometric recognition, and structured academic workflows.
+### Experience & Credentials
 
-**Technologies:** Python, FastAPI, React, OpenCV, SQL
-
-- Developed backend services supporting authentication, course management, attendance sessions, and student enrollment.
-- Integrated face recognition into a camera-based attendance verification workflow.
-- Implemented session management, attendance tracking, and historical record retrieval.
-- Added automated tests for critical authentication and attendance workflows.
-
-### SYNAPTIX — Representation Drift Monitoring
-
-A machine learning monitoring project focused on identifying changes in learned model representations.
-
-**Technologies:** Python, PyTorch, pytest
-
-- Implemented Maximum Mean Discrepancy (MMD) using multi-scale radial basis function kernels.
-- Developed statistical detection logic for representation drift.
-- Contributed automated tests for model-monitoring workflows.
-
-### EEG Cognitive State Recognition
-
-A deep learning project investigating EEG-based classification of cognitive states.
-
-**Technologies:** Python, TensorFlow, Bi-LSTM, FFT
-
-- Processed 1,280 EEG trials from the DEAP dataset.
-- Applied FFT-based signal transformations for feature preparation.
-- Developed a bidirectional LSTM model for valence and arousal classification.
-- Reported 89.24% benchmark accuracy in project evaluation.
-
-### Real-Time Object Detection
-
-A computer vision pipeline designed for real-time image processing and object detection.
-
-**Technologies:** Python, OpenCV
-
-- Implemented a real-time video processing pipeline.
-- Measured processing performance of approximately 25 FPS in the test environment.
-
-## Experience
-
-**Machine Learning Intern**  
-SkillCraft Technology | May 2026 – June 2026
-
-**Python with AI Intern**  
-EWB Courses | 2026
-
-## Certifications
-
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Machine Learning Intern — SkillCraft Technology
+- Python with AI Intern — EWB Courses
+- Microsoft Certified: Azure AI Fundamentals
 - AWS Certified Cloud Practitioner
 
-## Current Focus
+### Connect
 
-- Data Structures and Algorithms
-- Backend Engineering and API Development
-- Software Design and System Architecture
-- Testing, Performance, and Reliability
-- Applied Machine Learning Systems
-
----
-
-**Professional Interests:** Software Engineering · Backend Development · Applied AI
-```
+[LinkedIn](https://www.linkedin.com/in/d-harshith-6b92b8328/) · [GitHub](https://github.com/HarshithDevX)
